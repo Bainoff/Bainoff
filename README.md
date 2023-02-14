@@ -13,9 +13,10 @@ ___
 ___
 ## Education
  - **2023** - EPAM - IT fundamentals;
+ - **2023 (in process)** - Vadzim Ksendzov's author testing course;
  - **2022** - Udemy (Artsiom Rusau) - Tester from scratch;
  - **2022** - Portnov Online School - Software QA training'2022;
- - **1998-2003** - BSEU (Belarusian state economical univercity) - bachelor's degree in economics;
+ - **1998-2003** - BSEU (Belarusian state economical university) - bachelor's degree in economics;
  - **miscellaneous:**
     - IT-academy online training: Databases. Basic course; RegEx. Basis;
     - EPAM online training - Computer Science Basics; Software Testing Introduction (Kulikov).
