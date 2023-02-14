@@ -4,7 +4,7 @@
 *Hi! I'm a QA engineer who searches an opportunity to apply my great financial, analytical background and strong soft skills.*
 ___
 ## Contacts
-[![telegram](https://github.com/Bainoff/Bainoff/blob/main/icons/github.png?raw=true)](https://t.me/SHtweedle) telegram
+[![telegram](https://github.com/Bainoff/Bainoff/blob/main/icons/telegram.png?raw=true)](https://t.me/SHtweedle) telegram
 [![linkedin](https://github.com/Bainoff/Bainoff/blob/main/icons/linkedin.png?raw=true)](https://www.linkedin.com/in/alexey-bainov) linkedin
 [![gmail](https://github.com/Bainoff/Bainoff/blob/main/icons/gmail.png?raw=true)](mailto:bainoff@gmail.com) gmail
 [![github](https://github.com/Bainoff/Bainoff/blob/main/icons/github.png?raw=true)](https://github.com/Bainoff) github
@@ -21,7 +21,7 @@ ___
     - EPAM online training - Computer Science Basics; Software Testing Introduction (Kulikov).
 ___
 ## Certificates
-[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/)
+[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://www.efset.org/cert/UtZZFQ) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/)
 ___
 ## Stack
 | OS/platforms  | project management/bug tracking tools   |   API/web/mobile testing tools |
