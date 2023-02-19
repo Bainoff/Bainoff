@@ -48,4 +48,5 @@ ___
  - Polish           :white_check_mark: :white_check_mark: :white_square_button: :white_square_button: :white_square_button:
  - Belarusian       :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_square_button:
  - russian          :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: 
-
+___
+<img src="https://komarev.com/ghpvc/?username=bainoff&style=flat-square&color=blue" alt=""/>
