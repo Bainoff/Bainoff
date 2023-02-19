@@ -4,10 +4,10 @@
 *Hi! I'm a QA engineer who searches an opportunity to apply my great financial, analytical background and strong soft skills.*
 ___
 ## Contacts
-[![telegram](https://github.com/Bainoff/Bainoff/blob/main/icons/telegram.png?raw=true)](https://t.me/SHtweedle) telegram
-[![linkedin](https://github.com/Bainoff/Bainoff/blob/main/icons/linkedin.png?raw=true)](https://www.linkedin.com/in/alexey-bainov) linkedin
-[![gmail](https://github.com/Bainoff/Bainoff/blob/main/icons/gmail.png?raw=true)](mailto:bainoff@gmail.com) gmail
-[![github](https://github.com/Bainoff/Bainoff/blob/main/icons/github.png?raw=true)](https://github.com/Bainoff) github
+[![telegram](https://github.com/Bainoff/Bainoff/blob/main/icons/telegram.png?raw=true)](https://t.me/SHtweedle) &nbsp;Telegram &emsp; &emsp;
+[![linkedin](https://github.com/Bainoff/Bainoff/blob/main/icons/linkedin.png?raw=true)](https://www.linkedin.com/in/alexey-bainov) &nbsp; LinkedIn &emsp; &emsp;
+[![gmail](https://github.com/Bainoff/Bainoff/blob/main/icons/gmail.png?raw=true)](mailto:bainoff@gmail.com) &nbsp; Gmail &emsp; &emsp;
+[![github](https://github.com/Bainoff/Bainoff/blob/main/icons/github.png?raw=true)](https://github.com/Bainoff) &nbsp; GitHub
 
 
 ___
