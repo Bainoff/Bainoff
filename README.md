@@ -8,8 +8,6 @@ ___
 [![linkedin](https://github.com/Bainoff/Bainoff/blob/main/icons/linkedin.png?raw=true)](https://www.linkedin.com/in/alexey-bainov) &nbsp; LinkedIn &emsp; &emsp;
 [![gmail](https://github.com/Bainoff/Bainoff/blob/main/icons/gmail.png?raw=true)](mailto:bainoff@gmail.com) &nbsp; Gmail &emsp; &emsp;
 [![github](https://github.com/Bainoff/Bainoff/blob/main/icons/github.png?raw=true)](https://github.com/Bainoff) &nbsp; GitHub
-
-
 ___
 ## Education
  - **2023** - EPAM - IT fundamentals;
@@ -48,5 +46,20 @@ ___
  - Polish           :white_check_mark: :white_check_mark: :white_square_button: :white_square_button: :white_square_button:
  - Belarusian       :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_square_button:
  - russian          :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: 
+___
+You are welcome to get acquainted with some of my skills by browsing my repositories in dropdown below
+<details>
+<summary>:point_right: Repositories :point_left:</summary>
+<ul>
+<li><a href="https://github.com/Bainoff/Java">Java</a></li>
+<li><a href="https://github.com/Bainoff/JS">Java Script</a></li>
+<li><a href="https://github.com/Bainoff/JSON">JSON</a></li>
+<li><a href="https://github.com/Bainoff/bash">bash</a></li>
+<li><a href="https://github.com/Bainoff/SQL">SQL</a></li>
+<li><a href="https://github.com/Bainoff/html_and_css">HTML & CSS</a></li>
+<li><a href="https://github.com/Bainoff/test_docs">test documentation</a></li>
+</ul>
+</details>
+
 ___
 <img src="https://komarev.com/ghpvc/?username=bainoff&style=flat-square&color=blue" alt=""/>
