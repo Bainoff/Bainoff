@@ -58,6 +58,7 @@ You are welcome to get acquainted with some of my skills by browsing my reposito
 <li><a href="https://github.com/Bainoff/SQL">SQL</a></li>
 <li><a href="https://github.com/Bainoff/html_and_css">HTML & CSS</a></li>
 <li><a href="https://github.com/Bainoff/test_docs">test documentation</a></li>
+<li><a href="https://github.com/Bainoff/JavaAutomation">Java automation</a></li>
 </ul>
 </details>
 
