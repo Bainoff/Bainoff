@@ -36,8 +36,8 @@ ___
 
 ### Programming languages:
  - Java             :white_check_mark: :white_check_mark: :white_check_mark: :white_square_button: :white_square_button:
+ - Java Script      :white_check_mark: :white_check_mark: :white_check_mark: :white_square_button: :white_square_button:
  - SQL              :white_check_mark: :white_check_mark: :white_square_button: :white_square_button: :white_square_button:
- - Java Script      :white_check_mark: :white_check_mark: :white_square_button: :white_square_button: :white_square_button:
  - Python           :white_check_mark: :white_square_button: :white_square_button: :white_square_button: :white_square_button:
  - html             :white_check_mark: :white_square_button: :white_square_button: :white_square_button: :white_square_button:
 
