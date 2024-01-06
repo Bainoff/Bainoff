@@ -21,7 +21,7 @@ ___
     - EPAM online training - Computer Science Basics; Software Testing Introduction (Kulikov).
 ___
 ## Certificates
-[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://www.efset.org/cert/UtZZFQ) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/)
+[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://www.efset.org/cert/UtZZFQ) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/) [![ksendzov](https://github.com/Bainoff/Bainoff/blob/main/certificates/ksendzov-cert.png?raw=true)]() 
 ___
 ## Stack
 | OS/platforms  | project management/bug tracking tools   |   API/web/mobile testing tools |
