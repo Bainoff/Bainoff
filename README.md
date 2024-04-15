@@ -21,7 +21,7 @@ ___
     - EPAM online training - Computer Science Basics; Software Testing Introduction (Kulikov).
 ___
 ## Certificates
-[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://www.efset.org/cert/UtZZFQ) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/) [![ksendzov](https://github.com/Bainoff/Bainoff/blob/main/certificates/ksendzov_cert2.png?raw=true)](https://drive.google.com/file/d/15qXj68rYZ0uI6sa_Nxv3fmiUe8T32MQt/view?usp=sharing) 
+[![efset](https://github.com/Bainoff/Bainoff/blob/main/certificates/efset2.png?raw=true)](https://www.efset.org/cert/UtZZFQ) [![epam](https://github.com/Bainoff/Bainoff/blob/main/certificates/epam2.png?raw=true)](https://certificates.epam.com/certificates/cbe1ee80-03b2-42a1-90e9-bfa0af5b12e9) [![streamline](https://github.com/Bainoff/Bainoff/blob/main/certificates/streamline2.png?raw=true)](https://cert.str.by/streamline-certificate/01727F0C6DAB307D42126E82F9B5FF0C) [![udemy](https://github.com/Bainoff/Bainoff/blob/main/certificates/udemy2.png?raw=true)](https://www.udemy.com/certificate/UC-5fa5fa86-ad93-46ef-9fb2-70e852a08446/) [![ksendzov](https://github.com/Bainoff/Bainoff/blob/main/certificates/ksendzov_cert2.png?raw=true)](https://drive.google.com/file/d/15qXj68rYZ0uI6sa_Nxv3fmiUe8T32MQt/view?usp=sharing) [![andersenBA](https://github.com/Bainoff/Bainoff/blob/main/certificates/andersenBA.png?raw=true)](https://drive.google.com/file/d/1Tmg_ic-ntm8nvZdORen6pGDyBMv3PR1l/view?usp=sharing)
 ___
 ## Stack
 | OS/platforms  | project management/bug tracking tools   |   API/web/mobile testing tools |
@@ -32,6 +32,7 @@ ___
 | Android       | Trello                | Charles           |
 | cmd           | TestRail              | Fiddler           |
 | bash          | Bugzilla              | Android SDK       |
+| CI/CD         | Test Rail             | Cypress           |
 | GIT           | Google docs           | Selenium          |
 
 ### Programming languages:
